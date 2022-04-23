@@ -1,0 +1,23 @@
+[
+  {
+    "remote": "github",
+    "repository": "Realme-G70-Series/android_packages_apps_RealmeDirac",
+    "target_path": "packages/apps/RealmeDirac",
+    "branch":"lineage-19.0"
+  },
+  {
+    "remote": "gitlab",
+    "repository": "arrowos-project/android_prebuilts_clang_host_linux-x86_clang-r437112b",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-r437112b",
+    "branch": "master"
+  },
+  {
+    "repository": "kernel_realme_sdm660",
+    "target_path": "kernel/realme/sdm660"
+  }
+  ,
+  {
+    "repository": "vendor_realme_RMX1801",
+    "target_path": "vendor/realme"
+  }
+]
